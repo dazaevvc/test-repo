@@ -1,3 +1,3 @@
-# favorites
+## Dazaev
 
-create 'favorites.md'
+**color:** purple
