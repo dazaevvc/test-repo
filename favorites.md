@@ -1,3 +1,5 @@
 ## Dazaev
 
-**color:** purple
+- **color:** purple
+- **video game:** DDR
+- **animal:** Ferret
