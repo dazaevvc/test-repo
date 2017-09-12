@@ -1,5 +1,18 @@
 ## Dazaev
 
 - **color:** purple
-- **video game:** DDR
-- **animal:** Ferret
+- **video game:** Overwatch
+- **animal:** Dog
+
+## Kong
+
+- **color:** orange
+-**videogame:** civilization
+-**animal:** cat
+
+## Sophia
+
+-**color:** pink
+-**videogame:** SSB
+-**animal:** pig
+
