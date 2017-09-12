@@ -1,0 +1,3 @@
+# favorites
+
+create 'favorites.md'
