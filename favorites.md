@@ -16,3 +16,8 @@
 -**videogame:** SSB
 -**animal:** pig
 
+## Wes
+
+-**color:** red
+-**videogame:** darksouls
+-**animal:** dog
